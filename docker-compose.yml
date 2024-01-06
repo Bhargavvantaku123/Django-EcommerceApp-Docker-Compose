@@ -1,0 +1,7 @@
+version: "3.3"
+services: 
+  e-commerce: 
+    container_name: E-Commerce-App
+    build: .
+    ports: 
+      - "9001:9001"
