@@ -2,8 +2,9 @@
 
 ## How to Run
 
-**1. Pull the Docker Image from Cloud**
+**1. Build and Run Docker Container Image**
 <br>
+`docker-compose build --no-cache`
 `docker-compose up -d`
 
 
