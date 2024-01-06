@@ -9,6 +9,6 @@
 `docker-compose up -d`
 
 
-**2. Open Web Browser and type bwlow url**
+**2. Open Web Browser and type below url**
 <br>
 `localhost:9001`
