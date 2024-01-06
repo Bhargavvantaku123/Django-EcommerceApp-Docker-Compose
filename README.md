@@ -4,9 +4,9 @@
 
 **1. Pull the Docker Image from Cloud**
 <br>
-`docker pull tracebackerror/ecommerce:latest`
+`docker-compose up -d`
 
 
-**2. Run the Container**
+**2. Open Web Browser and type bwlow url**
 <br>
-`docker run -d -p 8000:8000 tracebackerror/ecommerce`
+`localhost:9001`
